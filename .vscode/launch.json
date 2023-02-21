@@ -1,0 +1,16 @@
+{
+    "launch": {
+       "configurations": [
+        {
+            "name": "Launch Program",
+            "request": "launch",
+            "type": "node",
+            "program": "${file}"
+        }
+        ],
+        "compounds": []
+    },
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    }
+   }
